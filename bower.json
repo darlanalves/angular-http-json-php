@@ -1,0 +1,28 @@
+{
+  "name": "angular-http-json-php",
+  "version": "0.0.1",
+  "authors": [
+    "Darlan Alves <darlan@moovia.com>"
+  ],
+  "description": "A sample AngularJS app to explain how we can change the Content-Type header to send JSON data instead of form urlencoded",
+  "main": "lib/app.js",
+  "keywords": [
+    "angular",
+    "$http",
+    "php"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.9",
+    "jquery": "~2.0.3"
+  }
+}
