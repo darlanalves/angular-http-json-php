@@ -12,6 +12,6 @@ A sample AngularJS app to explain how we can change the Content-Type header to s
 
  `php -S localhost:8000`
 
- - Open http://localhost:8000/ in a browser
+ - Open `http://localhost:8000/` in a browser
 
  - Done.
